@@ -1,0 +1,96 @@
+<!doctype html>
+<head>
+  <meta charset="utf-8">
+
+  <title>My Parse App</title>
+  <meta name="description" content="My Parse App">
+  <meta name="viewport" content="width=device-width">
+  <link rel="stylesheet" href="css/reset.css">
+  <link rel="stylesheet" href="css/styles.css">
+  <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+  <script type="text/javascript" src="http://www.parsecdn.com/js/parse-1.2.16.min.js"></script>
+
+	<style>
+		.lang-btn {
+			display:inline;
+			margin-right:10px;
+			width:50px;
+		}
+		
+	</style>
+</head>
+
+<body>
+	<div>
+		<div class="lang-btn" id="c-form">中文</div> 
+		<div class="lang-btn" id="e-form">英文</div> 		
+		<div class="lang-btn" id="j-form">日文</div> 
+	</div>
+	<div>
+		<form class="book">
+			<div id="index"></div>
+			<div class="block" for="c_date"> <label class="label">時間</label> <input class="input" id="date" placeholder="出版年份與日期 ex:2012.10" ></div>		
+
+			<div class="c_form">		
+				<h4 class="form-ctl" >中文</h4>
+				<div class="block" for="c_editor" > <label class="label">作者</label> <input class="input" id="c_editor" placeholder="作者" value="周祝瑛" /></div>
+				<div class="block" for="c_name"> <label class="label">書目</label> <input class="input" id="c_name" placeholder="書籍資料" ></div>	
+				<div class="block" for="c_pub"> <label class="label">出版</label> <input class="input-txt" id="c-pub" placeholder="出版資訊"  type="text" ></div>
+			</div>
+			<div class="e_form">
+				<h4 class="form-ctl">英文</h4>
+				<div class="block" for="c_editor" > <label class="label">作者</label> <input class="input" id="e_editor" placeholder="作者" value="Chou, C. P." /></div>
+				<div class="block" for="c_name"> <label class="label">書目</label> <input class="input-txt" id="e_name" placeholder="書籍資料" type="text" ></div>
+				<div class="block" for="c_pub"> <label class="label">出版</label> <input class="input" id="e-pub" placeholder="出版資訊"  type="tex"></div>
+			</div>
+			<div class="j_form">
+				<h4 class="form-ctl">日文</h4>
+				<div class="block" for="c_editor" > <label class="label">作者</label> <input class="input" id="j_editor" placeholder="作者" value="周祝瑛"  /></div>
+				<div class="block" for="c_name"> <label class="label">書目</label> <input class="input-txt" id="j_name" placeholder="書籍資料" type="text" ></div>
+				<div class="block" for="c_pub"> <label class="label">出版</label> <input class="input" id="j-pub" placeholder="出版資訊" ></div>
+			</div>		
+		</form>
+	</div>
+
+  
+
+
+
+
+  <script type="text/javascript">
+	
+	function v(name){
+		var str = "#"+name ;
+		return $(str).val();
+	}
+	
+		Parse.initialize("vJgvRLZH5LWiY6xmFDX7MGuGb5eEj6XzmwpXR8bB", "3Y622q2tJgjH3yjVewAxZSv5NMyowTxv6I3LweoO");    
+    
+    var Book = Parse.Object.extend("Book");
+    var book = new Book();
+      book.save({
+				index:"",
+				date:"2012.",
+				link:"test",
+				c_name: "test-c",
+				c_editor:"",
+				c_pub:"",
+				e_name: "test-e",
+				e_editor:"",
+				e_pub:"",
+				j_name: "test-j",
+				j_editor:"",
+				j_pub:""
+			
+			}, {
+      success: function(object) {
+        $(".success").show();
+      },
+      error: function(model, error) {
+        $(".error").show();
+      }
+    });
+  </script>
+</body>
+
+</html>

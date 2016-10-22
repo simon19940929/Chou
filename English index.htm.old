@@ -1,0 +1,282 @@
+<html>
+
+<head>
+<meta http-equiv="Content-Language" content="zh-tw">
+<meta http-equiv="Content-Type" content="text/html; charset=big5">
+<title>Dr. CHUING PRUDENCE CHOU</title>
+<script language="JavaScript">
+<!--
+function FP_preloadImgs() {//v1.0
+ var d=document,a=arguments; if(!d.FP_imgs) d.FP_imgs=new Array();
+ for(var i=0; i<a.length; i++) { d.FP_imgs[i]=new Image; d.FP_imgs[i].src=a[i]; }
+}
+
+function FP_swapImg() {//v1.0
+ var doc=document,args=arguments,elm,n; doc.$imgSwaps=new Array(); for(n=2; n<args.length;
+ n+=2) { elm=FP_getObjectByID(args[n]); if(elm) { doc.$imgSwaps[doc.$imgSwaps.length]=elm;
+ elm.$src=elm.src; elm.src=args[n+1]; } }
+}
+
+function FP_getObjectByID(id,o) {//v1.0
+ var c,el,els,f,m,n; if(!o)o=document; if(o.getElementById) el=o.getElementById(id);
+ else if(o.layers) c=o.layers; else if(o.all) el=o.all[id]; if(el) return el;
+ if(o.id==id || o.name==id) return o; if(o.childNodes) c=o.childNodes; if(c)
+ for(n=0; n<c.length; n++) { el=FP_getObjectByID(id,c[n]); if(el) return el; }
+ f=o.forms; if(f) for(n=0; n<f.length; n++) { els=f[n].elements;
+ for(m=0; m<els.length; m++){ el=FP_getObjectByID(id,els[n]); if(el) return el; } }
+ return null;
+}
+// -->
+</script>
+</head>
+
+<body topmargin="50" leftmargin="50" rightmargin="50" onload="FP_preloadImgs(/*url*/'button11.jpg',/*url*/'button12.jpg',/*url*/'buttonB.jpg',/*url*/'buttonC.jpg',/*url*/'buttonE1.jpg',/*url*/'buttonF1.jpg',/*url*/'button13.jpg',/*url*/'button14.jpg')">
+
+<p><b><font face="Bookman Old Style" size="6">&nbsp;&nbsp; Dr.&nbsp; CHUING 
+PRUDENCE CHOU&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font></b></p>
+<p align="center">&nbsp;&nbsp; <a href="Bio.htm">
+<img border="0" id="img1" src="button15.jpg" height="30" width="150" alt="BIO" onmouseover="FP_swapImg(1,0,/*id*/'img1',/*url*/'button11.jpg')" onmouseout="FP_swapImg(0,0,/*id*/'img1',/*url*/'button15.jpg')" onmousedown="FP_swapImg(1,0,/*id*/'img1',/*url*/'button12.jpg')" onmouseup="FP_swapImg(0,0,/*id*/'img1',/*url*/'button11.jpg')" fp-style="fp-btn: Simple Line 1; fp-font-style: Bold; fp-font-size: 14" fp-title="BIO"></a><a href="publications.htm"><img border="0" id="img2" src="buttonA.jpg" height="35" width="175" alt="PUBLICATIONS" onmouseover="FP_swapImg(1,0,/*id*/'img2',/*url*/'buttonB.jpg')" onmouseout="FP_swapImg(0,0,/*id*/'img2',/*url*/'buttonA.jpg')" onmousedown="FP_swapImg(1,0,/*id*/'img2',/*url*/'buttonC.jpg')" onmouseup="FP_swapImg(0,0,/*id*/'img2',/*url*/'buttonB.jpg')" fp-style="fp-btn: Simple Line 1; fp-font-style: Bold; fp-font-size: 14" fp-title="PUBLICATIONS"></a><a href="others.htm"><img border="0" id="img3" src="buttonD.jpg" height="30" width="150" alt="OTHERS" onmouseover="FP_swapImg(1,0,/*id*/'img3',/*url*/'buttonE1.jpg')" onmouseout="FP_swapImg(0,0,/*id*/'img3',/*url*/'buttonD.jpg')" onmousedown="FP_swapImg(1,0,/*id*/'img3',/*url*/'buttonF1.jpg')" onmouseup="FP_swapImg(0,0,/*id*/'img3',/*url*/'buttonE1.jpg')" fp-style="fp-btn: Simple Line 1; fp-font-style: Bold; fp-font-size: 14" fp-title="OTHERS"></a><a href="index.htm"><img border="0" id="img4" src="button16.jpg" height="20" width="100" alt="CHINESE" onmouseover="FP_swapImg(1,0,/*id*/'img4',/*url*/'button13.jpg')" onmouseout="FP_swapImg(0,0,/*id*/'img4',/*url*/'button16.jpg')" onmousedown="FP_swapImg(1,0,/*id*/'img4',/*url*/'button14.jpg')" onmouseup="FP_swapImg(0,0,/*id*/'img4',/*url*/'button13.jpg')" fp-style="fp-btn: Simple Line 1; fp-font-style: Bold; fp-font-size: 14" fp-title="CHINESE"></a></p>
+<div style="position: absolute; width: 259px; height: 182px; z-index: 1; left: 167px; top: 186px" id="layer1">
+	<img border="0" src="prof.%20Chou's%20photo%204.JPG" width="355" height="264"></div>
+<p align="center"><b><font face="Bookman Old Style" size="6">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </font><font face="Times New Roman"><span lang="EN-US">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Current Position</span></font><span style="font-family: Times New Roman">：&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+</span></b></p>
+<p class="MsoNormal" style="text-indent: -6.0pt; margin-left: 102.0pt" align="center">
+<span lang="en-us"><font face="Times New Roman">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</font></span><font face="Times New Roman">
+<span lang="EN-US">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Professor, Department&nbsp; of Education, </span></font></p>
+<p class="MsoNormal" style="text-indent: -6.0pt; margin-left: 102.0pt" align="center">
+<font face="Times New Roman">
+<span lang="EN-US">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; National Cheng-Chi University, Taiwan</span></font></p>
+<p class="MsoNormal" align="center"><b><font face="Times New Roman"><span lang="EN-US">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Current Address</span></font><span style="font-family: Times New Roman">：</span></b></p>
+<p class="MsoNormal" align="center"><b>
+<span style="font-family: Times New Roman">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></b><font face="Times New Roman"><span lang="EN-US">P.O. Box 1-249, Mu-Cha, Taipei 116, TAIWAN</span></font></p>
+<p class="MsoNormal" align="center"><font face="Times New Roman"><span lang="EN-US">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></font><b><font face="Times New Roman"><span lang="EN-US">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Phone Number </span>
+</font>
+<span style="font-family: Times New Roman">：</span></b></p>
+<p class="MsoNormal" align="center"><b>
+<span style="font-family: Times New Roman">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></b><font face="Times New Roman"><span lang="EN-US">(886) 2-2939-3091#88007</span></font></p>
+<p class="MsoNormal" align="left">&nbsp;<span lang="EN-US"><b><font face="Times New Roman">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </font></b></span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<font face="Times New Roman"><span lang="EN-US"><b>Fax:</b></span></font><span lang="en-us"><font face="Times New Roman"> 
+(886)2-29396823</font></span></p>
+<p class="MsoNormal" align="left"><span lang="en-us">
+<font face="Times New Roman">&nbsp;</font></span><font face="Times New Roman"><span lang="EN-US">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<b>E-mail</b></span></font><b><span style="font-family: Times New Roman">：</span></b><font face="Times New Roman"><span lang="EN-US">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a style="color: blue; text-decoration: underline; text-underline: single" href="mailto:iaezcpc@nccu.edu.tw">
+iaezcpc@nccu.edu.tw</a></span></font></p>
+<p><b><font face="Bookman Old Style" size="6">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</font></b> <img border="0" src="0092.gif" width="740" height="10"></p>
+<p align="left">　</p>
+<p align="left">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
+<p class="MsoNormal" style="text-indent: -99.1pt; margin-left: 99.1pt"><b>
+<span lang="EN-US">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+Highest Degree </span><span style="font-family: 新細明體">：</span></b></p>
+<p class="MsoNormal" style="text-indent: -99.1pt; margin-left: 99.1pt"><b>
+<span style="font-family: 新細明體">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></b><span lang="EN-US">Ph. D., &amp; Post-doc, Comparative and International 
+Education</span></p>
+<p class="MsoNormal" style="text-indent: -3.7pt; margin-left: 98.85pt">
+<span style="font-family: 新細明體">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>
+<span lang="EN-US" style="font-size: 12.0pt; font-family: Times New Roman; color: black">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (</span><span lang="EN-US">University of 
+California, Los Angeles, USA)</span></p>
+<p class="MsoNormal" style="text-indent: -3.7pt; margin-left: 98.85pt">　</p>
+<p class="MsoNormal" style="text-indent: -99.1pt; margin-left: 99.1pt"><b>
+<span lang="EN-US">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+Teaching Subjects</span><span style="font-family: 新細明體">：</span></b></p>
+<p class="MsoNormal" style="line-height: 21.0pt; margin-left: 39.1pt; margin-right: -16.75pt; margin-top: 0cm; margin-bottom: .0001pt">
+<span lang="EN-US">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+Special Topics on Higher Education, </span></p>
+<p class="MsoNormal" style="line-height: 21.0pt; margin-left: 39.1pt; margin-right: -16.75pt; margin-top: 0cm; margin-bottom: .0001pt">
+<span lang="EN-US">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+Seminars on Comparative Education, </span></p>
+<p class="MsoNormal" style="line-height: 21.0pt; margin-left: 39.1pt; margin-right: -16.75pt; margin-top: 0cm; margin-bottom: .0001pt">
+<span lang="EN-US">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+PRC Higher Education, </span></p>
+<p class="MsoNormal" style="line-height: 21.0pt; margin-left: 39.1pt; margin-right: -16.75pt; margin-top: 0cm; margin-bottom: .0001pt">
+<span lang="EN-US">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+Gender Equity Education, </span></p>
+<p class="MsoNormal" style="line-height: 21.0pt; margin-left: 39.1pt; margin-right: -16.75pt; margin-top: 0cm; margin-bottom: .0001pt">
+<span lang="EN-US">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+Classroom Management.</span></p>
+<p class="MsoNormal"><span lang="EN-US" style="color:black">&nbsp;</span></p>
+<p class="MsoNormal"><b><span lang="EN-US" style="color:black">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+Interested Lecturing Topic</span><span lang="EN-US" style="font-family:新細明體;color:black">s</span><span style="font-family:新細明體;color:black">：</span></b></p>
+<p class="MsoNormal" style="text-indent: -18.0pt; margin-left: 54.0pt">
+<span lang="EN-US" style="color: black">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1.&nbsp;&nbsp; Policy implications of comparison in PISA, TIMSS, and the World-Class 
+University Rankings</span></p>
+<p class="MsoNormal" style="text-indent: -18.0pt; margin-left: 53.0pt">
+<span lang="EN-US" style="color: black">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+2.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span>
+<span lang="EN-US" style="color:black">Neo-liberalism and Higher Education</span><span style="font-family: 新細明體; color: black">：</span><span lang="EN-US" style="color:black">The 
+Experience from China and Taiwan</span></p>
+<p class="MsoNormal" style="text-indent: -18.0pt; margin-left: 53.0pt">
+<span lang="EN-US" style="color: black">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span>
+<span lang="EN-US" style="color:black">The Dilemma and Consequences of 
+Educational Policy Borrowing</span><span style="font-family: 新細明體; color: black">：</span><span lang="EN-US" style="color:black">From 
+A Comparative Perspective</span></p>
+<p class="MsoNormal" style="text-indent: -18.0pt; margin-left: 53.0pt">
+<span lang="EN-US" style="color: black">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span>
+<span lang="EN-US" style="color:black">Taiwanese education reform since 1987</span></p>
+<p class="MsoNormal"><span lang="EN-US" style="color:black">&nbsp;</span></p>
+<p class="MsoNormal"><b><span lang="EN-US" style="color:black">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+Work Experience</span><span style="font-family: 新細明體; color: black">：</span></b></p>
+<p class="MsoNormal" align="left"><b><span style="font-family: 新細明體">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></b>
+<span lang="EN-US" style="font-size: 8.0pt; font-family: Wingdings; color: black">
+l<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp; </span></span>
+<span lang="EN-US" style="color:black">Visiting scholar, Fairbank Center for 
+East Asia Studies, Harvard University(2006.8~2007.7) </span></p>
+<p class="MsoNormal" style="text-indent: -12.3pt; margin-left: 48.0pt" align="left">
+<span lang="EN-US" style="font-size: 8.0pt; font-family: Wingdings; color: black">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+l<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp; </span></span>
+<span lang="EN-US" style="color:black">Visiting Professor and Guest Lecturer, 
+Ohio State University, (May, 2007) </span></p>
+<p class="MsoNormal" style="text-indent: -12.3pt; margin-left: 48.0pt" align="left">
+<span lang="EN-US" style="font-size: 8.0pt; font-family: Wingdings; color: black">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+l<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp; </span></span>
+<span lang="EN-US" style="color:black">Coordinator, Taiwanese Education Reform 
+Forum (NGO)(2006 todate)</span></p>
+<p class="MsoNormal" style="text-indent: -12.3pt; margin-left: 48.0pt" align="left">
+<span lang="EN-US" style="font-size: 8.0pt; font-family: Wingdings; color: black">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+l<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp; </span></span>
+<span lang="EN-US" style="color:black">Visiting Professor, Beijing Normal 
+University (2006.5)</span></p>
+<p class="MsoNormal" style="text-indent: -12.3pt; margin-left: 48.0pt" align="left">
+<span lang="EN-US" style="font-size: 8.0pt; font-family: Wingdings; color: black">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+l<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp; </span></span>
+<span lang="EN-US" style="color:black">Honorary Visiting Professor, School of 
+Educational Studies, University of British Columbia, Canada (2005)</span></p>
+<p class="MsoNormal" style="text-indent: -12.3pt; margin-left: 48.0pt" align="left">
+<span lang="EN-US" style="font-size: 8.0pt; font-family: Wingdings; color: black">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+l<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp; </span></span>
+<span lang="EN-US" style="color:black">Honorary Visiting Professor, Center for 
+Maori Studies, University of Auckland, New Zealand(2004)</span></p>
+<p class="MsoNormal" style="text-indent: -12.3pt; margin-left: 48.0pt" align="left">
+<span lang="EN-US" style="font-size: 8.0pt; font-family: Wingdings; color: black">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+l<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp; </span></span>
+<span lang="EN-US" style="color:black">Honorary Professor, Southern China Normal 
+University, </span><span lang="EN-US" style="font-size: 11.0pt; color: black">
+Guangzhou, China </span><span lang="EN-US" style="color:black">(2003-todate)</span></p>
+<p class="MsoNormal" style="text-indent: -12.3pt; margin-left: 48.0pt" align="left">
+<span lang="EN-US" style="font-size: 8.0pt; font-family: Wingdings; color: black">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+l<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp; </span></span>
+<span lang="EN-US" style="color:black">Honorary Visiting Professor, School of 
+Education, University of Auckland, New Zealand (</span><span lang="EN-US" style="color: black">1997-1998)</span></p>
+<p class="MsoNormal" style="text-indent: -12.3pt; margin-left: 48.0pt" align="left">
+<span lang="EN-US" style="font-size: 8.0pt; font-family: Wingdings; color: black">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+l<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp; </span></span>
+<span lang="EN-US" style="color:black">Visiting Professor, School of Education, 
+University of Toronto, Canada (1998)</span></p>
+<p class="MsoNormal" style="text-indent: -12.3pt; margin-left: 48.0pt" align="left">
+<span lang="EN-US" style="font-size: 8.0pt; font-family: Wingdings; color: black">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; 
+l<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp; </span></span>
+<span lang="EN-US" style="color:black">Associate Professor (1993-1999), 
+Department of Education, National Cheng-Chi University, Taiwan</span></p>
+<p class="MsoNormal" style="text-indent: -12.3pt; margin-left: 48.0pt" align="left">
+<span lang="EN-US" style="font-size: 8.0pt; font-family: Wingdings; color: black">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+l<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp; </span></span>
+<span lang="EN-US" style="color:black">Part-time Lecturer, College of Tong-Nan 
+Technology, Taiwan (1986-1987)</span></p>
+<p class="MsoNormal" style="text-indent: -12.3pt; margin-left: 48.0pt">
+<span lang="EN-US" style="font-size: 8.0pt; font-family: Wingdings; color: black">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+l<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp; </span></span>
+<span lang="EN-US" style="color:black">Staff, Civil Service Training Center of 
+Taipei City Government, Taiwan (1986-1987)</span></p>
+<p class="MsoNormal" style="text-indent: -12.3pt; margin-left: 48.0pt">
+<span lang="EN-US" style="font-size: 8.0pt; font-family: Wingdings; color: black">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+l<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp; </span></span>
+<span lang="EN-US" style="color:black">Professional Guidance Counselor, China 
+Youth Corps, Taiwan (1981-1982)</span></p>
+<p class="MsoNormal"><span lang="EN-US" style="color:black">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></p>
+<p class="MsoNormal"><span lang="en-us">&nbsp;</span><span lang="EN-US" style="color:black">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;
+<b>Research Report: </b></span></p>
+<p class="MsoNormal"><span style="color: black">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (2008)Nccu survey of 
+			international students.</span></p>
+<p class="MsoNormal"><span style="color: black">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (2008-09)Building Global Universities: University Internationalization in Japan.</span></p>
+<p class="MsoNormal"><span lang="en-us">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span><span lang="EN-US" style="color:black">&nbsp;(2007)Teaching 
+evaluation and student guidance at Harvard University.</span></p>
+<p class="MsoNormal"><span lang="EN-US" style="color:black">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>
+<span lang="EN-US" style="color:black">(2006)</span><span lang="EN-US" style="color:black">How 
+to study at Cheng-chi University: The freshman guide book. <br>
+<br>
+</span><span lang="EN-US" style="color:black">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(2006)</span><span lang="EN-US" style="color:black">The improving strategy for 
+educational quality and policy-making in Taipei. <br>
+<br>
+</span><span lang="EN-US" style="color:black">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+(2005)</span><span lang="EN-US" style="color:black">University financuial aid 
+and student loan: from international perspectives. <br>
+<br>
+</span><span lang="EN-US" style="color:black">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; 
+(2005)</span><span lang="EN-US" style="color:black">How much they spend in 
+college: The living cost of Taiwanese students in institutes of technology. <br>
+<br>
+</span><span lang="EN-US" style="color:black">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(2004)</span><span lang="EN-US" style="color:black">The total university cost of 
+a four-year college: A nation-wide study in Taiwan. <br>
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+(2002-03)Chinese higher education reform since 1990s: The impact of WTO.<br>
+<br>
+</span><span lang="EN-US" style="color:black">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(2001-02)</span><span lang="EN-US" style="color:black">Chinese higher education 
+reform: A case study of university merging.<br>
+<br>
+</span><span lang="EN-US" style="color:black">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(2001)</span><span lang="EN-US" style="color:black">Multiple Intelligences in 
+Taiwan: Its impact on the “Nine-year integrated curriculum” among primary and&nbsp; </span></p>
+<p class="MsoNormal"><span lang="en-us">&nbsp;</span><span lang="EN-US" style="color:black">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; secondary schools.</span></p>
+<p class="MsoNormal"><span lang="EN-US" style="color:black">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(1999-2000)</span><span lang="EN-US" style="color:black">Multiple 
+Intelligences in Taiwan: Its experiment report from nine primary and secondary 
+schools.<br>
+<br>
+</span><span lang="EN-US" style="color:black">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(1999-2000)</span><span lang="EN-US" style="color:black">How Chinese 
+universities recruit Taiwanese students? <br>
+<br>
+</span><span lang="EN-US" style="color:black">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(1997-99)</span><span lang="EN-US" style="color:black">Overseas studies in Asia: 
+A consolidated project on Australia, China, Korea, Malaysia, Singapore, 
+Thailand, 
+</span></p>
+<p class="MsoNormal"><span lang="en-us">&nbsp;</span><span lang="EN-US" style="color:black">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; and Taiwan. <br>
+<br>
+</span><span lang="en-us">&nbsp;</span><span lang="EN-US" style="color:black">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (2000)</span><span lang="EN-US" style="color:black">University teaching 
+evaluation: A case study of Cheng-Chi University.</span></p>
+<p class="MsoNormal"><span lang="en-us">&nbsp;</span><span lang="EN-US" style="color:black">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+(1998-99)</span><span lang="EN-US" style="color:black">The possible application 
+of Multiple Intelligences to university classroom management.</span></p>
+<p class="MsoNormal"><span lang="en-us">&nbsp;</span><span lang="EN-US" style="color:black">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>
+<span lang="EN-US" style="color:black">(1998-99)</span><span lang="EN-US" style="color:black">Multiple 
+Intelligences in Taiwanese seed schools. <br>
+<br>
+</span><span lang="EN-US" style="color:black">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+(1996-97)</span><span lang="EN-US" style="color:black">A comparative study of 
+teaching ecology between New Zealand and Taiwanese secondary schools.<br>
+<br>
+</span><span lang="EN-US" style="color:black">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (1995-96)</span><span lang="EN-US" style="color:black">A study of the status quo 
+of social sciences and humanities in China.</span></p>
+<p class="MsoNormal"><span lang="en-us">&nbsp;</span><span lang="EN-US" style="color:black">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (1995-96)</span><span lang="EN-US" style="color:black">Chinese education 
+research in overseas: A review survey. </span></p>
+<p class="MsoNormal"><span lang="en-us">&nbsp;</span><span lang="EN-US" style="color:black">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(1995.1~6)</span><span lang="EN-US" style="color:black">A study of the 
+Educational Introductory coursework.</span></p>
+<p class="MsoNormal"><span lang="EN-US" style="color:black">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(1995.1~6)</span><span lang="EN-US" style="color:black">The daily life of 
+Taiwanese secondary schools: from ecological perspectives.</span></p>
+<p class="MsoNormal"><span lang="en-us">&nbsp;</span><span lang="EN-US" style="color:black">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+(1994-95)</span><span lang="EN-US" style="color:black">The possible adoption of 
+the US Reserved Officer’s Training Corps(ROTC) in Taiwan’s military.<br>
+<br>
+</span><span lang="EN-US" style="color:black">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; 
+(1993.3~1996)</span><span lang="EN-US" style="color:black">Educational 
+Encyclopedia: China </span></p>
+<p class="MsoNormal"><span lang="en-us">&nbsp;</span><span lang="EN-US" style="color:black">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(1993.9.1~1995.8.31)</span><span lang="EN-US" style="color:black">Comparative 
+education in China: Review and Critique. </span></p>
+<p class="MsoNormal"><span lang="EN-US" style="color:black">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (1993.2.1~7.31)</span><span lang="EN-US" style="color:black">A survey research 
+on China Studies in the United States.</span></p>
+<p class="MsoNormal"><span lang="EN-US" style="color:black">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(1992)</span><span lang="EN-US" style="color:black">A comparative study of the 
+promotion system among university professors between the US and Taiwan.<br>
+<br>
+　</span></p>
+
+</body>
+
+</html>

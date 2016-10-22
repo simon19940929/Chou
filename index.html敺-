@@ -1,0 +1,258 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>周教授的個人簡介</title>
+<link href="C_css.css" rel="stylesheet" type="text/css" />
+
+<style type="text/css">
+#counter{
+	float:right;
+	margin-right:45px}
+
+.profile_information {
+	float: left;
+	width: 95%;
+	height: 300px;
+}
+.profile_table {
+	float: left;
+	width: 98%;
+	padding-right: 1%;
+	padding-left: 1%;
+}
+
+#profile_photo {
+	padding: 0px;
+	float: left;
+	width: 80%;
+	margin-top: 5%;
+	margin-right: 10%;
+	margin-bottom: 5%;
+	margin-left: 10%;
+}
+p{
+	margin-top:5px;
+	margin-bottom:5px}
+</style>
+
+<script language="JavaScript">
+<!--
+function FP_preloadImgs() {//v1.0
+ var d=document,a=arguments; if(!d.FP_imgs) d.FP_imgs=new Array();
+ for(var i=0; i<a.length; i++) { d.FP_imgs[i]=new Image; d.FP_imgs[i].src=a[i]; }
+}
+
+function FP_swapImg() {//v1.0
+ var doc=document,args=arguments,elm,n; doc.$imgSwaps=new Array(); for(n=2; n<args.length;
+ n+=2) { elm=FP_getObjectByID(args[n]); if(elm) { doc.$imgSwaps[doc.$imgSwaps.length]=elm;
+ elm.$src=elm.src; elm.src=args[n+1]; } }
+}
+
+function FP_getObjectByID(id,o) {//v1.0
+ var c,el,els,f,m,n; if(!o)o=document; if(o.getElementById) el=o.getElementById(id);
+ else if(o.layers) c=o.layers; else if(o.all) el=o.all[id]; if(el) return el;
+ if(o.id==id || o.name==id) return o; if(o.childNodes) c=o.childNodes; if(c)
+ for(n=0; n<c.length; n++) { el=FP_getObjectByID(id,c[n]); if(el) return el; }
+ f=o.forms; if(f) for(n=0; n<f.length; n++) { els=f[n].elements;
+ for(m=0; m<els.length; m++){ el=FP_getObjectByID(id,els[n]); if(el) return el; } }
+ return null;
+}
+// -->
+</script>
+
+
+</head>
+
+<body>
+<div class="container">
+    <div class="language">
+      <p align="right">中文版<font face="bookman Old Style">
+      |
+      <a href="E_index.html">English</a>
+      |
+      </font>日文版</p>
+    </div>
+    <br />
+    <div class="header">
+      <h2>&lt;周祝瑛 教授&gt; <em>Chuing Prudence Chou</em>
+
+
+<div id="counter" style="width:170px">
+
+  
+  <div style="float:left; width:60%">
+    <script language="JavaScript" type="text/javascript" src="http://counter1.fc2.com/counter.php?id=9892768">
+    </script>
+    <noscript>
+    <img src="http://counter1.fc2.com/counter_img.php?id=9892768">
+    </noscript>
+    </div>
+  <div style="float:left; width:40%;" > 人次
+    </div>
+  
+</div>
+  
+  <br />
+        <br />
+      </h2>
+      <table width="99%" align="left">
+  <tr>
+    <td align="center"><a href="index.html"><img src="image/bt_header/bt_1_produce_a.jpg" width="127" height="29" /></a></td>
+    <td align="center"><a href="C_news.html"><img src="image/bt_header/bt_2_news_a.jpg" width="127" height="29" /></a></td>
+    <td align="center"><a href="C_research.html"><img src="image/bt_header/bt_3_research_a.jpg" width="127" height="29" /></a></td>
+    <td align="center"><a href="C_publications.html"><img src="image/bt_header/bt_4_works_a.jpg" width="127" height="29" /></a></td>
+    <td align="center"><a href="C_articles.html"><img src="image/bt_header/bt_5_article_a.jpg" width="127" height="29" /></a></td>
+    <td align="center"><a href="C_honor.html"><img src="image/bt_header/bt_6_honor_a.jpg" width="127" height="29" /></a></td>
+  </tr>
+</table>
+
+      <br />
+      <br />
+      <br />
+
+
+  </div>
+    <div class="content" >
+
+        <div class="profile_table">
+        <table width="100%" border="0" height="100%">
+          <tr>
+            <td width="246" rowspan="5" valign="middle"><div id="profile_photo">
+            <img src="image/profile_chou_1.jpg" alt="" width="100%" /></div></td>
+            <td width="79" height="39" align="right" valign="middle">現職：</td>
+            <td width="363" height="39" valign="middle"> 國立政治大學教育學教授 </td>
+            
+          </tr>
+          <tr>
+            <td height="39" align="right" valign="middle">地址：</td>
+            <td height="39" valign="middle">116 臺北市文山區指南路二段64號<br />
+
+            國立政治大學教育系</td>
+
+          </tr>
+          <tr>
+            <td height="39" align="right" valign="middle">電話：</td>
+            <td height="39" valign="middle"> 02-29393091*88007 </td>
+
+          </tr>
+          <tr>
+            <td height="39" align="right" valign="middle">傳真：</td>
+            <td height="39" valign="middle"> 02-29396823 </td>
+
+          </tr>
+          <tr>
+            <td height="39" align="right" valign="middle">E-mail：</td>
+            <td height="39" valign="middle"><a href="mailto:iaezcpc@nccu.edu.tw">iaezcpc@nccu.edu.tw</a></td>
+
+          </tr>
+        </table>
+    
+      </div>
+        <br />
+      <div class="bar">  </div>
+      <div class="content"> 
+        <h3>研究興趣
+        </h3>
+        <table cellspacing="5px" width="98%" border="0">
+          <tr>
+          
+            <td width="20"><p>&nbsp;</p></td>
+            <td width="33%">1. 比較教育(國際教改） </td>
+            <td width="33%"> 2.中國高等教育</td>
+            <td width="33%">3.性別教育</td>
+          </tr>
+        </table>
+        <p>&nbsp;</p>
+        <h3>教授科目</h3>
+        <table cellspacing="5px" width="98%" border="0">
+  <tr>
+    <td width="40"><p>&nbsp;</p></td>
+    <td width="33%">1.性別平等教育</td>
+    <td width="33%">2.國際教育改革</td>
+    <td width="33%">3.大陸教育研究</td>
+  </tr>
+  <tr>
+    <td width="40"><p>&nbsp;</p></td>
+    <td width="33%">4.比較教育</td>
+    <td width="33%">5.高等教育 </td>
+    <td width="33%"> 6.班級經營</td>
+  </tr>
+  <tr>
+    <td width="40"><p>&nbsp;</p></td>
+    <td width="33%">7.教育史 </td>
+    <td width="33%">8.論文專題寫作等課程</td>
+    <td width="33%">&nbsp;</td>
+  </tr>
+</table>
+
+        <h3>教育背景</h3>
+        <table cellspacing="5px" width="98%" border="0">
+          <tr>
+            <td width="40"><p>&nbsp;</p></td>
+            <td width="100" align="right">1992：</td>
+            <td>美國洛杉磯加州大學（UCLA）博士後研究</td>
+          </tr>
+          <tr>
+            <td width="40"><p>&nbsp;</p></td>
+            <td width="100" align="right">1987~1992：</td>
+            <td>美國洛杉磯加州大學（UCLA）比較及國際教育研究所</td>
+          </tr>
+        </table>
+        <p></p>
+
+        <h3>其他工作經驗</h3>
+         <table cellspacing="5px" width="98%" border="0">
+           <tr>
+             <td width="40"><p>&nbsp;</p></td>
+             <td width="100" align="right">2012~2013：</td>
+             <td>美國傅爾布萊特學者</td>
+           </tr>
+           <tr>
+             <td width="40"><p>&nbsp;</p></td>
+             <td width="100" align="right">2011~迄今：</td>
+             <td>Chinese Education and Society (台灣高等教育大眾化誰獲益) 專刊客座主編</td>
+           </tr>
+           <tr>
+             <td width="40"><p>&nbsp;</p></td>
+             <td width="100" align="right">2007~迄今：</td>
+             <td>國立政治大學教師會會長</td>
+           </tr>
+           <tr>
+             <td width="40"><p>&nbsp;</p></td>
+             <td width="100" align="right">2011：</td>
+             <td>參與教育部「高中教育政策白皮書」撰寫</td>
+           </tr>
+           <tr>
+             <td width="40"><p>&nbsp;</p></td>
+             <td width="100" align="right">2011：</td>
+             <td><a href="http://memo.cgu.edu.tw/yun-ju/CGUWeb/NCCUEdu2010/HomeAgainstSSCI.htm">「反對獨尊SSCI SCI等指標 找回大學求是精神」連署聲明</a></td>
+           </tr>
+           <tr>
+             <td width="40"><p>&nbsp;</p></td>
+             <td width="100" align="right">2011：</td>
+             <td><a href="http://www.tcf.tw/">台灣競爭力論壇</a>教育組召集人</td>
+           </tr>
+           <tr>
+             <td width="40"><p>&nbsp;</p></td>
+             <td width="100" align="right">2006~迄今：</td>
+             <td><a href="http://163.20.78.133/">教改總體檢論壇</a>執行秘書</td>
+           </tr>
+           <tr>
+             <td width="40"><p>&nbsp;</p></td>
+             <td width="100" align="right">2001~2002：</td>
+             <td>國立政治大學兩性平等委員會召集人</td>
+           </tr>
+           <tr>
+             <td width="40"><p>&nbsp;</p></td>
+             <td width="100" align="right">1999~迄今：</td>
+             <td>國立政治大學教育學系教授</td>
+           </tr>
+           
+        </table>
+      </div>
+
+</div>
+</div>
+</body>
+</html>

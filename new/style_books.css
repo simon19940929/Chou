@@ -1,0 +1,89 @@
+body {
+	font-family:"標楷體", "arial Unicode MS";
+	line-height:150%;
+}
+div {
+	overflow:hidden;
+}
+.container {
+	float:none;
+	margin:10px auto 10px auto;
+	padding:3%;
+	min-width:500px;
+	max-width:700px;
+}
+.picture {
+	margin:15px;
+	border: thin solid #666666;
+	float:left;
+	overflow-style:marquee-line;
+	max-width: 300px;
+}
+
+hover:{
+	cursor:pointer;
+}
+
+footer h3 {
+	text-align:right;
+
+}
+h3 {
+	color:rgba(51,51,51,1);
+}
+
+h1 {
+	text-align:center;
+}
+p {
+	text-indent: 2em;
+}
+
+p.title {
+	margin:0px;
+}
+
+.en {
+	font-family: "Bookman Old Style", "times New Roman";
+}
+.botton {
+	-webkit-transition: all 0.1s ease-in 0s;
+	-moz-transition: all 0.1s ease-in 0s;
+	-ms-transition: all 0.1s ease-in 0s;
+	-o-transition: all 0.1s ease-in 0s;
+	transition: all 0.1s ease-in 0s;
+	
+	margin: auto ;
+	width:auto;
+	float:left;
+	font-size:larger;
+}
+
+
+article {
+}
+
+
+.botton:hover {
+	cursor:pointer;
+	-webkit-opacity: .7;
+	-moz-opacity: .7;
+	border-bottom-color: rgba(0,102,204,1);
+	border-bottom-width: thick;
+}
+
+ol {
+	width:100%;
+}
+ol li {
+	width: 50%;
+	float:left;
+}
+
+a{
+	text-decoration:none;
+}
+a:hover {
+	text-decoration:underline;}
+	
+
